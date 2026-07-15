@@ -1,2 +1,2 @@
 # CrystalVPNBot
-Telegram VPN Bot
+Project scaffold.
